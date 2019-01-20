@@ -27,7 +27,7 @@ These settings help approximate the Sublime experience.
 "editor.lineHeight": 26,
 "editor.links": false,
 "editor.parameterHints": false,
-"editor.renderIndentGuides": false,
+"editor.renderIndentGuides": true,
 ```
 
 ## Complimentary Extensions
