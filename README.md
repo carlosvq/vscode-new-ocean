@@ -1,6 +1,6 @@
 # New Ocean
 
-![Oceanic Next Sublime](https://assets-carlosvq.sfo2.cdn.digitaloceanspaces.com/images-github/images-github/vscode-new-ocean.png)
+![New Ocean](https://assets-carlosvq.sfo2.cdn.digitaloceanspaces.com/images-github/images-github/vscode-new-ocean.png)
 
 **New Ocean** is a color scheme designed to emulate the appearance of the [Oceanic Next theme](https://github.com/voronianski/oceanic-next-color-scheme). But, with a new look and new syntax colors.
 
@@ -8,7 +8,6 @@
 
 Add any or all of the following settings to your `settings.json`.
 These settings help approximate the Sublime experience.
-
 
 ### UI Appearance
 
@@ -23,7 +22,7 @@ These settings help approximate the Sublime experience.
 ### Editor Appearance
 
 ```
-"editor.fontSize": 16,
+"editor.fontSize": 15,
 "editor.lineHeight": 26,
 "editor.links": false,
 "editor.parameterHints": false,
@@ -32,8 +31,8 @@ These settings help approximate the Sublime experience.
 
 ## Complimentary Extensions
 
--   [Material Theme Icons](https://material-theme.site/)
--   [Subtle Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
+- [Material Theme Icons](https://material-theme.site/)
+- [Subtle Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets)
 
 ### Extension Settings
 

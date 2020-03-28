@@ -2,7 +2,7 @@
   "name": "vscode-new-ocean",
   "displayName": "New Ocean",
   "description": "New Ocean theme, inspired in base16 colors",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "carlosvq",
   "repository": {
     "url": "https://github.com/carlosvq/vscode-new-ocean"
