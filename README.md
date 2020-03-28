@@ -1,6 +1,6 @@
 # New Ocean
 
-![New Ocean](https://assets-carlosvq.sfo2.cdn.digitaloceanspaces.com/images-github/images-github/vscode-new-ocean.png)
+![New Ocean](https://rawcdn.githack.com/carlosvq/vscode-new-ocean/7c8d32f92fcff1794b1066044b4ec1bc247c8068/preview.png)
 
 **New Ocean** is a color scheme designed to emulate the appearance of the [Oceanic Next theme](https://github.com/voronianski/oceanic-next-color-scheme). But, with a new look and new syntax colors.
 
