@@ -33,7 +33,7 @@
     "editorRuler.foreground": "#ffffff16",
     "editorSuggestWidget.background": "#0d1a24",
     "editorSuggestWidget.border": "#6699cc",
-    "editorSuggestWidget.selectedBackground": "#0d1a24",
+    "editorSuggestWidget.selectedBackground": "#15262E",
     "editorWidget.background": "#15262E",
     "editorWidget.border": "#ffffff22",
     "editorWhitespace.foreground": "#65737e",
